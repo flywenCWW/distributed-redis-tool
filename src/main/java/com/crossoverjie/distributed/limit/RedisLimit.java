@@ -20,7 +20,7 @@ import java.util.Collections;
  *
  * @author crossoverJie
  *         Date: 22/04/2018 15:54
- * @since JDK 1.8
+ * @since JDK 1.8 //新增分支2
  */
 public class RedisLimit {
 
